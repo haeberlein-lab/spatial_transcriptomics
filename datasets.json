@@ -1,7 +1,7 @@
 [
     {
         "id": "Fasciola_spatial",
-        "name": "Fasciola_spatial",
-        "url": "st_fasciola_test/st_fasciola_test.jsonl"
+        "name": "Fasciola spatial transcriptomics",
+        "url": "st_fasciola_test_tissue/st_fasciola_test_tissue.jsonl"
     }
 ]
